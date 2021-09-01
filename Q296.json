@@ -3,7 +3,7 @@
   "type":"cli_show",
   "version":"1.0",
   "sid":"eoc",
-  "outputs：｛
+  "outputs"：｛
     ＂output":{
       "input":"show version",
       "msg":"Success",
