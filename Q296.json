@@ -3,7 +3,7 @@
   "version":"1.0",
   "sid":"eoc",
   "outputs：｛
-    ＂output"{
+    ＂output":{
       "input":"show version",
       "msg":"Success",
       "code:"200",
