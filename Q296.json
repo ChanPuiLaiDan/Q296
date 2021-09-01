@@ -6,7 +6,7 @@
     ＂output":{
       "input":"show version",
       "msg":"Success",
-      "code:"200",
+      "code":"200",
       "body":{
         "bios_ver_str","07.61",
         "kickstart_ver_str":"7.0(3)|7(4)",
